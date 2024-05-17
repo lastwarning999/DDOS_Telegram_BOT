@@ -15,8 +15,8 @@ import concurrent.futures
 
 
 #Telegram token
-token = os.getenv('TELEGRAM_TOKEN')
-bot_number = os.getenv('NUM')
+token = os.getenv('6856184851:AAHakKnStspUHOYl2bS2BrohFlHMpF8h8jw')
+bot_number = os.getenv('WARNING_CAMERA_HACKbot')
 updater = Updater(token,use_context=True)
 s = 360
 
